@@ -1,3 +1,4 @@
 ### Fruits
-oranges
-apples
+oranges  
+apples  
+pears  
