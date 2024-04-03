@@ -5,3 +5,4 @@ pears
 bananas  
 grapes  
 lemons  
+pineapples  
