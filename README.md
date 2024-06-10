@@ -8,3 +8,4 @@ lemons
 pineapples  
 melons  
 papaya  
+cherries  
