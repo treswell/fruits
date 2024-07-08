@@ -12,3 +12,5 @@ cherries
 grapefruits
 kumquats  
 blueberries  
+apricots  
+
