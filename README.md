@@ -14,5 +14,6 @@ kumquats
 blueberries  
 apricots  
 peaches  
+watermelons  
 
 
