@@ -19,5 +19,6 @@ breadfruits
 raspberries  
 kiwis  
 plumbs  
+figs  
 
 
