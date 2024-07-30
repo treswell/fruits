@@ -20,5 +20,6 @@ raspberries
 kiwis  
 plumbs  
 figs  
+cranberries  
 
 
