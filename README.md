@@ -21,5 +21,6 @@ kiwis
 plumbs  
 figs  
 cranberries  
+strawberries  
 
 
