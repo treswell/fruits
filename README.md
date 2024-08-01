@@ -22,5 +22,7 @@ plumbs
 figs  
 cranberries  
 strawberries  
+guavas  
+
 
 
