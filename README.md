@@ -18,11 +18,12 @@ watermelons
 breadfruits  
 raspberries  
 kiwis  
-plumbs  
+plums  
 figs  
 cranberries  
 strawberries  
 guavas  
+satsumas  
 
 
 
