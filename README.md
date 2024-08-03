@@ -21,6 +21,8 @@ kiwis
 plums  
 figs  
 cranberries  
+dates  
+
 strawberries  
 guavas  
 satsumas  
