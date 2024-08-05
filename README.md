@@ -26,6 +26,8 @@ strawberries
 guavas  
 satsumas  
 rhubarbs  
+mangoes  
+
 
 
 
