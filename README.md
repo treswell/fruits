@@ -29,6 +29,7 @@ rhubarbs
 mangoes  
 mulberries  
 gooseberries  
+lychees  
 
 
 
