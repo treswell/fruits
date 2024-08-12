@@ -32,6 +32,7 @@ gooseberries
 lychees  
 durians  
 clementines  
+pommelos  
 
 
 
