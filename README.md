@@ -35,6 +35,7 @@ clementines
 pommelos  
 pitayas  
 passion fruits  
+cherimoyas  
 
 
 
